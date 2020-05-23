@@ -1,5 +1,5 @@
 # Using Python for Automation
-## LinkedIn Course by Sam Pettus
+### LinkedIn Course by Sam Pettus
 
 ### Course Certification : [View Certificate](https://github.com/ashshekhar/python-automation/blob/master/course-certification/Using%20Python%20for%20Automation.pdf)
 
