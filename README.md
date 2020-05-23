@@ -1,10 +1,10 @@
 # Using Python for Automation
-### LinkedIn Course by Sam Pettus
+## LinkedIn Course by Sam Pettus
 
-### Certification : [View Certificate](https://github.com/ashshekhar/python-automation/blob/master/course-certification/Using%20Python%20for%20Automation.pdf)
+### Course Certification : [View Certificate](https://github.com/ashshekhar/python-automation/blob/master/course-certification/Using%20Python%20for%20Automation.pdf)
 
 
-### Description
+### Course Description:
 
 1. `auto-organize-directory` : Organizing a cluster of files with different extensions into sub-directories
 
