@@ -1,6 +1,9 @@
 # Using Python for Automation
 ## LinkedIn Course by Sam Pettus
 
+## Course Certification : [View Certificate]()
+
+
 ### Description
 
 1. `auto-organize-directory` : Organizing a cluster of files with different extensions into sub-directories
